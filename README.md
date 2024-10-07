@@ -52,5 +52,5 @@ I'm a passionate Computer Science student with a keen interest in Artificial Int
 <div align="center">
   
 📫 **Connect with me:**  
-[Add your social links here]
+[su-23002@sitare.org]
 </div>
