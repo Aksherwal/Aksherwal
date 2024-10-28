@@ -4,7 +4,7 @@
 🚀 AI/ML Enthusiast | Data Science Explorer
 
 ## 🚀 About Me
-I'm a passionate Computer Science student with a keen interest in Artificial Intelligence and Machine Learning and web Development. Currently exploring various technologies and always eager to learn something new!
+I'm a passionate Computer Science student with a keen interest in Artificial Intelligence, Machine Learning and web Development. Currently exploring various technologies and always eager to learn something new!
 
 
 ## 💻 Tech Stack
