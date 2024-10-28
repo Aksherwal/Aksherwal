@@ -29,7 +29,7 @@ I'm a passionate Computer Science student with a keen interest in Artificial Int
 ![NLTK](https://img.shields.io/badge/-NLTK-222222?style=flat)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat)
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-43b02a?style=flat)
-![Gensim](https://img.shields.io/badge/-Gensim-FF6F61?style=flat)
+![OpenCV](https://img.shields.io/badge/-OpenCV-FF6F61?style=flat)
 </div>
 
 ### Core Skills
