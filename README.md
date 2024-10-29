@@ -1,6 +1,6 @@
 # Hi there! I'm Aakash Kumar 👋
 
-🎓 Computer Science Student @ Sitare University  
+🎓 Computer Science Student @ Sitare University (in association with SRMU, Lucknow)
 🚀 AI/ML Enthusiast | Data Science Explorer
 
 ## 🚀 About Me
