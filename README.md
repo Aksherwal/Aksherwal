@@ -49,5 +49,5 @@ I'm a passionate Computer Science student with a keen interest in Artificial Int
 <div align="center">  
 
 📫 **Connect with me:**  
-[su-23002@sitare.org]  
+[Gmail](su-23002@sitare.org)
 </div>
