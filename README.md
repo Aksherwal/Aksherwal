@@ -25,6 +25,7 @@ I'm a passionate Computer Science student with a keen interest in Artificial Int
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/-NLTK-222222?style=flat" alt="NLTK" />
   <img src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/-BeautifulSoup-43b02a?style=flat" alt="BeautifulSoup" />
